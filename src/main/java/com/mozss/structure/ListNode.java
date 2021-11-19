@@ -1,4 +1,4 @@
-package com.mozss.data;
+package com.mozss.structure;
 
 public class ListNode {
 	public int val;

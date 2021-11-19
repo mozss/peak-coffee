@@ -1,6 +1,6 @@
 package com.mozss.leetcode200;
 
-import com.mozss.data.ListNode;
+import com.mozss.structure.ListNode;
 
 public class Solution206 {
 	public ListNode reverseList(ListNode head){
