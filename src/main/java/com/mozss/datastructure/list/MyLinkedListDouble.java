@@ -147,7 +147,7 @@ public class MyLinkedListDouble {
 		return curr.val;
 	}
 	
-	/**
+	/**添加元素到链表头部
 	 * @param val
 	 */
 	public void addAtHead(int val) {
@@ -162,6 +162,9 @@ public class MyLinkedListDouble {
 		succ.prev = toAdd;
 	}
 	
+	/**添加元素到链表尾部
+	 * @param val
+	 */
 	public void addAtTail(int val) {
 		ListNode succ = tail;
 		ListNode pred = tail.prev;

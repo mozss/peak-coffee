@@ -62,6 +62,7 @@ public class MyLinkedListSingle {
 		//首先定义 被添加节点的前驱(删除操作也需要)
 		ListNode pred = head;
 		for(int i = 0; i < index; ++i){
+			//pred这里如同一个游标,从head开始,顺着索引,不断改变值,直到抵达索引位置
 			pred = pred.next;
 		}
 		
@@ -120,10 +121,13 @@ public class MyLinkedListSingle {
 			return;
 		}
 		size--;
-		//删除需要删除的node
+		//找到需要删除的node
 		ListNode pred = head;
 		for (int i = 0; i < index; i++) {
 			pred = pred.next;
 		}
+		//删除
+		pred.next = pred.next.next;
 	}
+	
 }
