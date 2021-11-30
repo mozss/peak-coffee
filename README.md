@@ -13,7 +13,7 @@
 
 ### 练习
 
-- [链表](src/main/resources/doc-data/链表.md)
-- [数组](src/main/resources/doc-data/数组.md)
-- [字符串](src/main/resources/doc-data/字符串.md)
-- [哈希](src/main/resources/doc-data/哈希.md)
+- [链表](src/main/resources/doc-data/02链表.md)
+- [数组](src/main/resources/doc-data/01数组.md)
+- [字符串](src/main/resources/doc-data/03字符串.md)
+- [哈希](src/main/resources/doc-data/04哈希.md)
