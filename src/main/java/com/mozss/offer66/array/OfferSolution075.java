@@ -1,4 +1,4 @@
-package com.mozss.offer.array;
+package com.mozss.offer66.array;
 
 /**
  *No.075题

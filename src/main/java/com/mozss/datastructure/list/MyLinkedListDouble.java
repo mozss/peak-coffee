@@ -37,6 +37,7 @@ public class MyLinkedListDouble {
 		size = 0;
 		head = new ListNode(0);
 		tail = new ListNode(0);
+		//把值覆盖指针，指针就指向这个值
 		head.next = tail;
 		tail.prev = head;
 	}
@@ -58,7 +59,7 @@ public class MyLinkedListDouble {
 			index = 0;
 		}
 		
-		//首先定义被添加节点的 前驱和后继节点
+		//首先定义被添加节点的 前驱和后继节点, 这里是指针
 		ListNode pred, succ;
 		/*
 		* 注意这里的if条件, index < size - index
