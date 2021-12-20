@@ -1,6 +1,7 @@
 package com.mozss.leetcode200;
 
-import com.mozss.structure.ListNodeSingle;
+import com.mozss.common.structure.ListNodeSingle;
+import com.mozss.leetcode.leetcode200.Solution206;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
