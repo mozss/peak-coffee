@@ -1,4 +1,4 @@
-package com.mozss.skill.bfs;
+package com.mozss.common.skill.bfs;
 
 import java.util.Queue;
 

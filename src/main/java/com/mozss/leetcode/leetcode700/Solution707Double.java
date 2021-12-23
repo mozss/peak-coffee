@@ -35,8 +35,9 @@ public class Solution707Double {
 		if(index > size){
 			return;
 		}
-		if(index < size){
+		if(index < 0){
 			index = 0;
+			//或者这里调用addAtHead()方法
 		}
 		//“待添加节点”的 predNode-前驱 succNode-后继
 		ListNodeDouble predNode;

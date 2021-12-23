@@ -1,4 +1,4 @@
-package com.mozss.skill.dfs;
+package com.mozss.common.skill.dfs;
 
 /**
  * 这里提供DFS的伪代码
