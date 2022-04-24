@@ -1,0 +1,12 @@
+
+D
+java:S1659""Declare "tail" on a separate line.(“à»Ìûÿÿÿÿ8©©£Çş/
+X	java:S125"<This block of commented-out lines of code should be removed.(íÏïã8«©£Çş/
+D
+java:S1659?""Declare "succ" on a separate line.(”œ®™ÿÿÿÿÿ8¯©£Çş/
+U
+java:S1854r"8Remove this useless assignment to local variable "succ".(ÄöÊç8°©£Çş/
+U
+java:S1854x"8Remove this useless assignment to local variable "pred".(²•áô8±©£Çş/
+D
+java:S1659l""Declare "succ" on a separate line.(”œ®™ÿÿÿÿÿ8±©£Çş/
