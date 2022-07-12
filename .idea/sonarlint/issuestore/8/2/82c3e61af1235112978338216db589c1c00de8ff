@@ -1,14 +1,0 @@
-
-l	java:S116
-"RRename this field "p_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÛò¤ýÿÿÿÿ
-=
-java:S1125"'Remove the unnecessary boolean literal.(ªšüÂ
-c	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„àÀ–
-B
-java:S1125+"'Remove the unnecessary boolean literal.(ô·Š¬þÿÿÿÿ
-B
-java:S1125/"'Remove the unnecessary boolean literal.(ô·Š¬þÿÿÿÿ
-B
-java:S11253"'Remove the unnecessary boolean literal.(ô·Š¬þÿÿÿÿ
-o
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ËÑ«

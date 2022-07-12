@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/src/main/java/com/mozss/algorithms/store" title="题库"/>
+     <tree path="/src/main/java/com/mozss/algorithms/sections" title="算法各部分内容: 数据结构, 算法策略等"/>
+     <tree path="/src/main/java/com/mozss/algorithms/common" title="节点结构的定义; 排序算法和搜索算法; 技巧技能点"/>
+ </trees>

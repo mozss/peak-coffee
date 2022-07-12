@@ -9,4 +9,5 @@ public class Hello<P1 extends String, P2 extends String> {
 	private void add(int a, int b){
 		System.out.println(a + b);
 	}
+	
 }
