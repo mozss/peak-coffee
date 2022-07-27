@@ -1,0 +1,25 @@
+package com.mozss.java_jmm.jmm04volatile.sample_02;
+
+class Runner extends Thread {
+	private volatile boolean quit = false;
+	
+	@Override
+	public void run() {
+		while (!quit) {
+			// ...
+		}
+		System.out.println("Done");
+	}
+	
+	public void shutdown() {
+		quit = true;
+	}
+}
+
+public class Main {
+	public static void main(String[] args) {
+		Runner runner = new Runner();
+		runner.start();
+		runner.shutdown();
+	}
+}

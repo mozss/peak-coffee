@@ -1,0 +1,1 @@
+package com.mozss.pattern23.design5creational.creational00factorysimple;

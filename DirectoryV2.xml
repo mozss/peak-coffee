@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?> 
  <trees>
      <tree path="/src/main/java/com/mozss/algorithms/store" title="题库"/>
-     <tree path="/src/main/java/com/mozss/algorithms/sections" title="算法各部分内容: 数据结构, 算法策略等"/>
-     <tree path="/src/main/java/com/mozss/algorithms/common" title="节点结构的定义; 排序算法和搜索算法; 技巧技能点"/>
+     <tree path="/src/main/java/com/mozss/algorithms/sections"
+           title="算法各部分内容: 数据结构, 算法策略等"/>
+     <tree path="/src/main/java/com/mozss/algorithms/common"
+           title="基础部分, 必须掌握: (节点结构的定义; 10排序算法和8搜索算法; 技巧技能点)"/>
+     <tree path="/src/main/java/com/mozss/algorithms/common/base/sort_10/sort_a_choice"
+           title="选择排序"/>
+     <tree path="/src/main/java/com/mozss/algorithms/common/base/sort_10/sort_b_exchange"
+           title="交换排序(冒泡-快排)"/>
+     <tree path="/src/main/java/com/mozss/algorithms/common/base/sort_10/sort_c_insert"
+           title="插入排序"/>
+     <tree path="/src/main/java/com/mozss/algorithms/common/base/sort_10/sort_d_merge"
+           title="归并排序"/>
+     <tree path="/src/main/java/com/mozss/algorithms/common/base/sort_10/sort_e_distribution"
+           title="分布排序"/>
+     <tree path="/src/main/java/com/mozss/algorithms/common/base/sort_10/sort_e_distribution/bucket"
+           title="桶排序"/>
+     <tree path="/src/main/java/com/mozss/algorithms/common/base/sort_10/sort_e_distribution/count"
+           title="计数"/>
+     <tree path="/src/main/java/com/mozss/algorithms/common/base/sort_10/sort_e_distribution/cardinality"
+           title="基数"/>
+     <tree path="/src/main/java/com/mozss/algorithms/common/base/sort_10/sort_b_exchange/bubble"
+           title="冒泡"/>
+     <tree path="/src/main/java/com/mozss/algorithms/common/base/sort_10/sort_b_exchange/quick"
+           title="快排"/>
+     <tree path="/src/main/java/com/mozss/algorithms/sections/structure"
+           title="linear线性结构; nonlinear非线性结构"/>
+     <tree path="/src/main/java/com/mozss/algorithms/sections/structure_java_jcf"
+           title="java的集合框架"/>
  </trees>

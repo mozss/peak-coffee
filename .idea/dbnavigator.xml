@@ -18,6 +18,7 @@
       <destination value="FILE" />
       <format value="EXCEL" />
       <charset value="UTF-8" />
+      <charset value="UTF-8" />
     </export-instructions>
   </component>
   <component name="DBNavigator.Project.DatabaseBrowserManager">
@@ -144,11 +145,11 @@
         <nulls-first value="true" />
         <max-sorting-columns value="4" />
       </sorting>
-      <tracking-columns>
-        <columnNames value="" />
+      <audit-columns>
+        <column-names value="" />
         <visible value="true" />
         <editable value="false" />
-      </tracking-columns>
+      </audit-columns>
     </dataset-grid-settings>
     <dataset-editor-settings>
       <text-editor-popup>
@@ -195,7 +196,6 @@
           <content-type name="FTL" enabled="true" />
           <content-type name="GSP" enabled="true" />
           <content-type name="VTL" enabled="true" />
-          <content-type name="AIDL" enabled="true" />
           <content-type name="YAML" enabled="true" />
           <content-type name="Manifest" enabled="true" />
         </content-types>
