@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd416c14-0b72-4c9c-ba98-f195e936a871" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/base/skills/bfs/QueueOfBFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/base/skills/dfs/StackOfDFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/base/sort_10/sort_a_choice/Sample_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/base/sort_10/sort_b_exchange/bubble/Sample_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/common/codeframe/ListNodeDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/common/codeframe/ListNodeSingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/common/codeframe/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/structure/linear01_list/MyLinkedListDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/structure/linear01_list/MyLinkedListSingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/structure/linear04_stack/javademo/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/structure/linear04_stack/javademo/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/structure/linear05_queue/javademo/MyCircularQueueByArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/structure/linear05_queue/javademo/MyCircularQueueByList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/structure/linear05_queue/javademo/MyCircularQueueSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/structure/linear05_queue/javademo/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/structure/nonlinear06_hash/javademo/MyHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/structure/nonlinear06_hash/javademo/MyHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="dd416c14-0b72-4c9c-ba98-f195e936a871" name="变更" comment="覆盖代码后恢复">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="v4" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
@@ -115,7 +102,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="应用程序.Client (2)">
+  <component name="RunManager">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mozss.pattern23.design5creational.creational00factorysimple.sample.Client" />
       <module name="peak-coffee" />
@@ -155,11 +142,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sample_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mozss.algorithms.base.sort_10.sort_a_choice.Sample_01" />
+      <module name="peak-coffee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mozss.algorithms.base.sort_10.sort_a_choice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Client (2)" />
-        <item itemvalue="应用程序.Client (1)" />
-        <item itemvalue="应用程序.Client" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Sample_01" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +174,14 @@
       <updated>1658938232480</updated>
       <workItem from="1658938234991" duration="721000" />
     </task>
+    <task id="LOCAL-00001" summary="覆盖代码后恢复">
+      <created>1658985821839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658985821839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +205,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add something" />
-    <option name="LAST_COMMIT_MESSAGE" value="add something" />
+    <MESSAGE value="覆盖代码后恢复" />
+    <option name="LAST_COMMIT_MESSAGE" value="覆盖代码后恢复" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
