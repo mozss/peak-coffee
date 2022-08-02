@@ -26,9 +26,9 @@ public class Sample_01 {
 	
 	public static void main(String[] args) {
 		int[] tobeSorted = {12, 2, 34, 8, 6, 11, 3, 18};
-		tobeSorted = sort(tobeSorted);
-		for (int i = 0; i < tobeSorted.length; i++) {
-			System.out.print(tobeSorted[i] + " ");
+		sort(tobeSorted);
+		for (int i : tobeSorted) {
+			System.out.print(i + " ");
 		}
 	}
 }

@@ -4,8 +4,547 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd416c14-0b72-4c9c-ba98-f195e936a871" name="变更" comment="覆盖代码后恢复">
+    <list default="true" id="4d023fd4-f9b4-41f9-b487-6c508bf5586f" name="Changes" comment="add">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/base/search_8/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/base/sort_10/sort_a_choice/simple/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/base/sort_10/sort_b_exchange/bubble/Sample_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/common/SortFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_category/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_category/tree/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v1/offer090/offer_v2_090.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v1/offer120/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v1/offer66_v1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer030/SS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer030/no_001/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer030/no_001/offer_v2_001.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer030/no_002/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer030/no_002/offer_v2_002.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer030/no_003/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer030/no_003/offer_v2_003.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer030/no_004/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer030/no_004/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer030/no_005/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer030/no_005/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer030/no_006/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer030/no_006/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer090/offer_v2_090.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_091/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_092/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_093/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_094/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_095/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_096/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_096/images/interleave.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_097/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_098/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_098/images/robot_maze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_099/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_099/images/minpath.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_100/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_101/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_102/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_103/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_104/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_105/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_105/images/1626667010-nSGPXz-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_106/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_106/images/bi1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_106/images/bi2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_107/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_107/images/1626667201-NCWmuP-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_107/images/1626667205-xFxIeK-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_108/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_109/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_110/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_110/images/all_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_110/images/all_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_111/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_112/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_112/images/grid1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_112/images/tmp-grid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_113/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_114/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_115/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_116/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_116/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_116/images/graph1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_116/images/graph2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_117/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_117/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_118/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_118/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_118/images/1626676174-hOEVUL-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_118/images/1626676179-kGxcmu-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/no_119/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer120/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer66_v2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2/offer_v2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/base/sort_10/sort_a_choice/Sample_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/base/sort_10/sort_a_choice/heap/Sample_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/base/sort_10/sort_b_exchange/bubble/Sample_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/base/sort_10/sort_b_exchange/bubble/Sample_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/common/codeframe/ListNodeDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/common/ListNodeDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/common/codeframe/ListNodeSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/common/ListNodeSingle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/common/codeframe/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mozss/algorithms/common/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algs4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm03synchronized/sample_01/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm03synchronized/sample_01/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm03synchronized/sample_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm03synchronized/sample_01/Something.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm03synchronized/sample_02/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm03synchronized/sample_02/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm03synchronized/sample_02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm03synchronized/sample_02/Something.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm04volatile/sample_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm04volatile/sample_01/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm04volatile/sample_02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm04volatile/sample_02/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm04volatile/sample_03/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm04volatile/sample_03/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm04volatile/sample_03/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm04volatile/sample_03/Something.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm05final/sample_01/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm05final/sample_01/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm05final/sample_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm05final/sample_01/Something.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm05final/sample_02/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm05final/sample_02/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm05final/sample_02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm05final/sample_02/Something.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_01/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_01/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_01/MySystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_02_single_thread_execution/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_02_single_thread_execution/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_02_single_thread_execution/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_02_single_thread_execution/MySystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_03_initialization_on_demand_holder/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_03_initialization_on_demand_holder/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_03_initialization_on_demand_holder/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_03_initialization_on_demand_holder/MySystem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_03_initialization_on_demand_holder/MySystem$Holder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jmm/jmm06double_checked_locking/sample_03_initialization_on_demand_holder/MySystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jvm/tools/snippet/HoldLockMain_vmstat$HoldLockTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_jvm/tools/snippet/HoldLockMain_vmstat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample/BankDemoSynchronized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample/HelloThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample/SleepDemoThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample/StartDemoThread01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample/StartDemoThread02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample/StartDemoThread03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample_collection/sample01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample_collection/sample01/ReaderThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample_collection/sample01/WriterThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample_collection/sample02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample_collection/sample02/ReaderThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample_collection/sample02/WriterThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample_collection/sample03/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample_collection/sample03/ReaderThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample_collection/sample03/WriterThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample_semaphore/BoundedResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample_semaphore/Log.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample_semaphore/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/sample_semaphore/UserThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/skill/MathProblemSolver$FactorialCalculatingThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread/src/skill/MathProblemSolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern01_single_threaded_execution/sample_01_unsafe/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern01_single_threaded_execution/sample_01_unsafe/Gate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern01_single_threaded_execution/sample_01_unsafe/UserThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern01_single_threaded_execution/sample_02_safe/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern01_single_threaded_execution/sample_02_safe/Gate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern01_single_threaded_execution/sample_02_safe/UserThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern02_immutable/sample_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern02_immutable/sample_01/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern02_immutable/sample_01/PrintPersonThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern03_guarded_suspension/sample_01/ClientThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern03_guarded_suspension/sample_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern03_guarded_suspension/sample_01/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern03_guarded_suspension/sample_01/RequestQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern03_guarded_suspension/sample_01/ServerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern04_balking/sample_01/ChangerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern04_balking/sample_01/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern04_balking/sample_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern04_balking/sample_01/SaverThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern05_producer_consumer/sample_01/EaterThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern05_producer_consumer/sample_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern05_producer_consumer/sample_01/MakerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern05_producer_consumer/sample_01/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern09_future/sample_01/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern09_future/sample_01/FutureData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern09_future/sample_01/Host$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern09_future/sample_01/Host.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern09_future/sample_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/java_thread_pattern/pattern09_future/sample_01/RealData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample/AbstractClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample/AbstractClassConcrete_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample/AbstractClassConcrete_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample_01/Template.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample_01/TemplateConcrete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample_02/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample_02/HummerModelAbs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample_02/HummerModelConcrete01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample_02/HummerModelConcrete02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample_03/CalculatorAbs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample_03/CalculatorConcretePlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior01templatemethod_class/sample_03/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior02interpreter_class/sample_01/AdvanceExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior02interpreter_class/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior02interpreter_class/sample_01/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior02interpreter_class/sample_01/Expression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior02interpreter_class/sample_01/SimpleExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior02interpreter_class/sample_03/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior02interpreter_class/sample_03/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior02interpreter_class/sample_03/Expression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior02interpreter_class/sample_03/Minus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior02interpreter_class/sample_03/Plus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample/StrategyImpl_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample/StrategyImpl_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample_01/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample_01/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample_01/StrategyImplA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample_01/StrategyImplB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample_01/StrategyImplC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample_03/CalculatorAbs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample_03/CalculatorI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample_03/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample_03/Minus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample_03/Multiply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior03strategy/sample_03/Plus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample/StateConcrete_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample/StateConcrete_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_01/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_01/Rain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_01/Sunshine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_01/Weather.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_02/sample_02_before/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_02/sample_02_before/LiftI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_02/sample_02_before/LiftImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_02/sample_02_better/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_02/sample_02_better/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_02/sample_02_better/LiftStateAbs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_02/sample_02_better/LiftStateClosing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_02/sample_02_better/LiftStateOpenning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_02/sample_02_better/LiftStateRunning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_02/sample_02_better/LiftStateStopping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_03/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_03/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior04state/sample_03/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample/CommandConcrete_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample/CommandConcrete_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample/Invoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample/Receiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample/ReceiverConcrete_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample/ReceiverConcrete_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_01/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_01/CommandImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_01/Invoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_01/Receiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_02/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_02/CommanConcrete_DeletePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_02/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_02/CommandConcrete_AddRequirement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_02/Group.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_02/GroupConcrete_Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_02/GroupConcrete_Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_02/GroupConcrete_Requirement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior05command/sample_02/Invoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior06responsibilitychain/sample_01/AddMoneyRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior06responsibilitychain/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior06responsibilitychain/sample_01/DimissionRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior06responsibilitychain/sample_01/HrRequestHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior06responsibilitychain/sample_01/LeaveRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior06responsibilitychain/sample_01/PmRequestHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior06responsibilitychain/sample_01/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior06responsibilitychain/sample_01/RequestHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior06responsibilitychain/sample_01/TLRequestHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior06responsibilitychain/sample_03/AbstractHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior06responsibilitychain/sample_03/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior06responsibilitychain/sample_03/Handler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior06responsibilitychain/sample_03/HandlerImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior07observer/sample/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior07observer/sample/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior07observer/sample/ObserverImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior07observer/sample/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior07observer/sample/SubjectConcrete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior07observer/sample_01/Citizen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior07observer/sample_01/HuangPuCitizen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior07observer/sample_01/HuangPuPoliceman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior07observer/sample_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior07observer/sample_01/Policeman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior07observer/sample_01/TianHeCitizen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior07observer/sample_01/TianHePoliceman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior08mediator/sample/Colleague.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior08mediator/sample/ColleagueConcrete_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior08mediator/sample/ColleagueConcrete_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior08mediator/sample/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior08mediator/sample/MediatorConcrete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior08mediator/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior08mediator/sample_01/Colleague.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior08mediator/sample_01/ColleagueA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior08mediator/sample_01/ColleagueB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior08mediator/sample_01/ConcreteMediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior08mediator/sample_01/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior09visitor/sample/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior09visitor/sample/ElementAbs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior09visitor/sample/ElementConcrete_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior09visitor/sample/ElementConcrete_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior09visitor/sample/ObjectStructure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior09visitor/sample/VisitorI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior09visitor/sample/VisitorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior09visitor/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior09visitor/sample_01/ConcreteVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior09visitor/sample_01/FloatElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior09visitor/sample_01/StringElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior09visitor/sample_01/Visitable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior09visitor/sample_01/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior10iterator/sample/Aggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior10iterator/sample/AggregateImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior10iterator/sample/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior10iterator/sample/Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior10iterator/sample/IteratorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior10iterator/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior10iterator/sample_01/Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior10iterator/sample_01/IteratorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior10iterator/sample_01/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior10iterator/sample_01/ListImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior11memento/sample/Caretaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior11memento/sample/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior11memento/sample/Memento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior11memento/sample/Originator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior11memento/sample_01/Caretaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior11memento/sample_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior11memento/sample_01/Memento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior11memento/sample_01/Originator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior11memento/sample_03/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior11memento/sample_03/Memento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior11memento/sample_03/Original.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design11behavior/behavior11memento/sample_03/Storage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/sample/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/sample/Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/sample/CreatorConcrete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/sample/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/sample/ProductImpl1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/sample/ProductImpl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/sample_02/ClientNvWa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/sample_02/FactoryHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/sample_02/FactoryHumanConcrete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/sample_02/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/sample_02/HumanImplBlack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/sample_02/HumanImplWhite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/sample_02/HumanImplYellow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_01_normal/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_01_normal/SendFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_01_normal/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_01_normal/SenderImplMailSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_01_normal/SenderImplSmsSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_02_multi/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_02_multi/SendFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_02_multi/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_02_multi/SenderImplMailSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_02_multi/SenderImplSmsSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_03_static/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_03_static/SendFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_03_static/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_03_static/SenderImplMailSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational00factorysimple/smaple_01/factory_03_static/SenderImplSmsSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_01/FactoryHomeWorkI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_01/FactoryHomeWorkImplStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_01/FactoryHomeWorkImplTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_01/HomeWorkI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_01/HomeWorkImplStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_01/HomeWorkImplTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_02/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_02/Provider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_02/ProviderImplSendMailFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_02/ProviderImplSendSmsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_02/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_02/SenderImplMailSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational01factorymethod_class/sample_02/SenderImplSmsSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_01/AnimalFactoryI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_01/AnimalFactoryImplBlack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_01/AnimalFactoryImplWhite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_01/CatI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_01/CatImplBlackCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_01/CatImplWhiteCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_01/DogI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_01/DogImplBlack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_01/DogImplWhite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_02/ClientNvWa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_02/FactoryHumanI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_02/FactoryHumanImplFemale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_02/FactoryHumanImplMale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_02/HumanI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_02/HumanImplAbstractWhite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_02/HumanImplAbstractYellow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_02/HumanWhiteConcreteFemale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_02/HumanWhiteConcreteMale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_02/HumanYellowConcreteFemale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational02factoryabstract/sample_02/HumanYellowConcreteMale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample/Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample/BuilderConcrete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample/Director.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_01/Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_01/ManBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_01/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_01/PersonBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_01/PersonDirector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_02/CarModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_02/CarModelBMW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_02/CarModelBenz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_02/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_03/Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_03/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_03/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_03/SenderImplMailSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational03builder/sample_03/SenderImplSmsSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_01/sample_enum/SingletonEnum$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_01/sample_enum/SingletonEnum$Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_01/sample_enum/SingletonEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_01/sample_hungry/SingletonHungry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_01/sample_lazy/SingletonLazy_safe_01_yes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_01/sample_lazy/SingletonLazy_safe_02_yes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_01/sample_lazy/SingletonLazy_safe_03_no.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_01/sample_lazy/SingletonLazy_unsafe_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_01/sample_lazy/SingletonLazy_unsafe_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_02/Emperor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_02/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_03/Singleton_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_03/Singleton_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_03/Singleton_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_03/Singleton_04$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_03/Singleton_04$SingletonFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational04singleton/sample_03/Singleton_04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational05prototype/sample/PrototypeClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational05prototype/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational05prototype/sample_01/ConcretePrototype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational05prototype/sample_01/Prototype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational05prototype/sample_02/sample_mail/AdTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational05prototype/sample_02/sample_mail/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational05prototype/sample_02/sample_mail/Mail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational05prototype/sample_02/sample_mail_better/AdTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational05prototype/sample_02/sample_mail_better/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational05prototype/sample_02/sample_mail_better/Mail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational05prototype/sample_03/Prototype_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational05prototype/sample_03/Prototype_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design5creational/creational05prototype/sample_03/SerializableObbject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural01adapter_class_object/sample/Adaptee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural01adapter_class_object/sample/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural01adapter_class_object/sample/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural01adapter_class_object/sample/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural01adapter_class_object/sample/TargetImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural01adapter_class_object/sample_01/Adaptee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural01adapter_class_object/sample_01/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural01adapter_class_object/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural01adapter_class_object/sample_01/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural01adapter_class_object/sample_03/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural01adapter_class_object/sample_03/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural01adapter_class_object/sample_03/Source.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural01adapter_class_object/sample_03/Targetable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample/ClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample/ClassB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample/ClassC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample/Facade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample_01/Facade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample_01/ServiceA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample_01/ServiceAImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample_01/ServiceB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample_01/ServiceBImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample_01/ServiceC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample_01/ServiceCImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample_02/CPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample_02/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample_02/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample_02/Disk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural02facade/sample_02/Memory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample/ComponentConcrete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample/Decorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample/DecoratorConcrete_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample/DecoratorConcrete_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample_01/Decorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample_01/Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample_01/ManDecoratorA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample_01/ManDecoratorB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample_01/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample_03/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample_03/Decorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample_03/Source.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural03decorator/sample_03/Sourceable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural04proxy/sample/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural04proxy/sample/SubjectImplProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural04proxy/sample/SubjectImplReal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural04proxy/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural04proxy/sample_01/Object.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural04proxy/sample_01/ObjectImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural04proxy/sample_01/ProxyObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample/Abstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample/Implementor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample/ImplementorImpl_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample/ImplementorImpl_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample/RefinedAbstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample_01/Clothing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample_01/ClothingJacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample_01/ClothingTrouser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample_01/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample_01/PersonLady.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample_01/PersonMan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample_03/Bridge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample_03/BridgeConcrete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample_03/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample_03/Sourceable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample_03/SourceableImpl_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural05bridge/sample_03/SourceableImpl_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural06composite/sample/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural06composite/sample/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural06composite/sample/CompositeBranch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural06composite/sample/CompositeLeaf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural06composite/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural06composite/sample_01/Employer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural06composite/sample_01/Programmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural06composite/sample_01/ProjectAssistant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural06composite/sample_01/ProjectManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural07flyweight/sample/Flyweight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural07flyweight/sample/FlyweightConcrete_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural07flyweight/sample/FlyweightConcrete_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural07flyweight/sample/FlyweightFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural07flyweight/sample_01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural07flyweight/sample_01/Flyweight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural07flyweight/sample_01/FlyweightFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural07flyweight/sample_01/FlyweightImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural07flyweight/sample_02/ConnectionPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural07flyweight/sample_03/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural07flyweight/sample_03/SignInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural07flyweight/sample_03/SignInfo4Pool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mozss/pattern23/design7structural/structural07flyweight/sample_03/SignInfoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mozss/structure/Solution318Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,55 +554,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="算法_排序_模板" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="v4" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitToolBoxStore">
-    <option name="projectConfigVersion" value="5" />
-    <option name="recentBranches">
-      <RecentBranches>
-        <option name="branchesForRepo">
-          <list>
-            <RecentBranchesForRepo>
-              <option name="branches">
-                <list>
-                  <RecentBranch>
-                    <option name="branchName" value="v4" />
-                    <option name="lastUsedInstant" value="1658984815" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="bak2" />
-                    <option name="lastUsedInstant" value="1658984753" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="2021" />
-                    <option name="lastUsedInstant" value="1658984642" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1658984501" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="bak" />
-                    <option name="lastUsedInstant" value="1658984428" />
-                  </RecentBranch>
-                </list>
-              </option>
-              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
-            </RecentBranchesForRepo>
-          </list>
-        </option>
-      </RecentBranches>
-    </option>
+  <component name="GoVcsConfiguration">
+    <option name="GO_FMT" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -75,7 +576,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2CX9n26rqRH6dMoOLsyGzzUJMs0" />
+  <component name="ProjectId" id="2CZnCMLC6khiUNjqCyG6yaaHSDf" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -83,6 +584,7 @@
     <option name="autoscrollToSource" value="true" />
     <option name="compactDirectories" value="true" />
     <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
@@ -96,14 +598,30 @@
     <property name="go.format.on.save.advertiser.fired" value="true" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="项目" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/mozss/algorithms_store/offer_v2" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
-  <component name="RunManager">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\data-mozss\code\workspace-project\it\peak\peak-coffee\src\main\java\com\mozss\algorithms_store\offer_v2" />
+      <recent name="D:\data-mozss\code\workspace-project\it\peak\peak-coffee\src\main\java\com\mozss\algorithms_store\offer_v2\offer120\no_119" />
+      <recent name="D:\data-mozss\code\workspace-project\it\peak\peak-coffee\src\main\java\com\mozss\algorithms_store\offer_v2\offer120\no_115" />
+      <recent name="D:\data-mozss\code\workspace-project\it\peak\peak-coffee\src\main\java\com\mozss\algorithms_store\offer_v2\offer120\no_114" />
+      <recent name="D:\data-mozss\code\workspace-project\it\peak\peak-coffee\src\main\java\com\mozss\algorithms_store\offer_v2\offer120\no_113" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\data-mozss\code\workspace-project\it\peak\peak-coffee\src\main\java\com\mozss\algorithms_store\offer66\no60" />
+      <recent name="D:\data-mozss\code\workspace-project\it\peak\peak-coffee\src\main\java\com\mozss\algorithms_store\offer66\no30" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mozss.algorithms.base.sort_10.sort_a_choice.heap" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SS">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mozss.pattern23.design5creational.creational00factorysimple.sample.Client" />
       <module name="peak-coffee" />
       <extension name="coverage">
@@ -116,12 +634,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mozss.pattern23.design11behavior.behavior09visitor.sample_01.Client" />
+    <configuration name="H" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mozss.algorithms_store.offer_v2.offer030.no_030.H" />
       <module name="peak-coffee" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mozss.pattern23.design11behavior.behavior09visitor.sample_01.*" />
+          <option name="PATTERN" value="com.mozss.algorithms_store.offer_v2.offer030.no_030.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +647,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mozss.pattern23.design5creational.creational00factorysimple.smaple_01.factory_01_normal.Client" />
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mozss.algorithms_store.offer66.array.Hello" />
       <module name="peak-coffee" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mozss.pattern23.design5creational.creational00factorysimple.smaple_01.factory_01_normal.*" />
+          <option name="PATTERN" value="com.mozss.algorithms_store.offer66.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mozss.algorithms_store.offer_v2.offer030.SS" />
+      <module name="peak-coffee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mozss.algorithms_store.offer_v2.offer030.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +674,11 @@
       </method>
     </configuration>
     <configuration name="Sample_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mozss.algorithms.base.sort_10.sort_a_choice.Sample_01" />
+      <option name="MAIN_CLASS_NAME" value="com.mozss.algorithms.base.sort_10.sort_a_choice.heap.Sample_01" />
       <module name="peak-coffee" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mozss.algorithms.base.sort_10.sort_a_choice.*" />
+          <option name="PATTERN" value="com.mozss.algorithms.base.sort_10.sort_a_choice.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,33 +686,75 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mozss.algorithms.base.sort_10.sort_a_choice.simple.Sort" />
+      <module name="peak-coffee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mozss.algorithms.base.sort_10.sort_a_choice.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.SS" />
+        <item itemvalue="Application.H" />
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Sort" />
         <item itemvalue="Application.Sample_01" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="默认任务">
-      <changelist id="dd416c14-0b72-4c9c-ba98-f195e936a871" name="变更" comment="" />
-      <created>1658938232480</created>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d023fd4-f9b4-41f9-b487-6c508bf5586f" name="Changes" comment="" />
+      <created>1659018846228</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658938232480</updated>
-      <workItem from="1658938234991" duration="721000" />
+      <updated>1659018846228</updated>
+      <workItem from="1659018847945" duration="1454000" />
+      <workItem from="1659086561508" duration="811000" />
+      <workItem from="1659093871903" duration="59000" />
+      <workItem from="1659166754180" duration="2024000" />
+      <workItem from="1659197500138" duration="1224000" />
+      <workItem from="1659337139930" duration="1740000" />
+      <workItem from="1659358057896" duration="8322000" />
+      <workItem from="1659414681991" duration="71000" />
     </task>
-    <task id="LOCAL-00001" summary="覆盖代码后恢复">
-      <created>1658985821839</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1658985821839</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,20 +768,13 @@
             <State />
           </value>
         </entry>
-        <entry key="d55292a3-f101-43b0-a4be-6dc56ebf155b">
-          <value>
-            <State />
-          </value>
-        </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add something" />
-    <MESSAGE value="覆盖代码后恢复" />
-    <option name="LAST_COMMIT_MESSAGE" value="覆盖代码后恢复" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
